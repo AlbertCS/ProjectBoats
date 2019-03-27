@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1452426892 source:c:\a   tot\albert\uni\fonaments programacio\projecte final\projecte_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"funcions.h"
+	"tipus.h"
+
+1452384266 source:c:\a   tot\albert\uni\fonaments programacio\projecte final\projecte_final\funcions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"tipus.h"
+	"vaixells.h"
+
+1452347964 c:\a   tot\albert\uni\fonaments programacio\projecte final\projecte_final\tipus.h
+
+1452384266 c:\a   tot\albert\uni\fonaments programacio\projecte final\projecte_final\funcions.h
+	"tipus.h"
+
+1452384266 c:\a   tot\albert\uni\fonaments programacio\projecte final\projecte_final\vaixells.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<stdbool.h>
+	"tipus.h"
+
+1452384266 source:c:\a   tot\albert\uni\fonaments programacio\projecte final\projecte_final\vaixells.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"tipus.h"
+	"funcions.h"
+
+1452387866 source:c:\a   tot\albert\uni\1r quadri\fonaments programacio\projecte final\projecte_final\funcions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"tipus.h"
+	"vaixells.h"
+
+1452351564 c:\a   tot\albert\uni\1r quadri\fonaments programacio\projecte final\projecte_final\tipus.h
+
+1452387866 c:\a   tot\albert\uni\1r quadri\fonaments programacio\projecte final\projecte_final\vaixells.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<stdbool.h>
+	"tipus.h"
+
+1452430492 source:c:\a   tot\albert\uni\1r quadri\fonaments programacio\projecte final\projecte_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"funcions.h"
+	"tipus.h"
+
+1452387866 c:\a   tot\albert\uni\1r quadri\fonaments programacio\projecte final\projecte_final\funcions.h
+	"tipus.h"
+
+1452387866 source:c:\a   tot\albert\uni\1r quadri\fonaments programacio\projecte final\projecte_final\vaixells.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"tipus.h"
+	"funcions.h"
+
